@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "993127170639",
+    "project_id": "heyhire---mobile",
+    "storage_bucket": "heyhire---mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993127170639:android:79f1ccabf4c56551d3203a",
+        "android_client_info": {
+          "package_name": "com.heyhire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993127170639-2idjvbefeia8bgeds1phkr2snhefdgvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heyhire",
+            "certificate_hash": "475bb77663b1d396530863d472be3c2b8825e2ab"
+          }
+        },
+        {
+          "client_id": "993127170639-840okvtq51iim8al50ke18o93k38cdur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heyhire",
+            "certificate_hash": "a7d561b5b09423c954c59b58bea2fdff9ed5116a"
+          }
+        },
+        {
+          "client_id": "993127170639-bsmej0fqabfb9qi1f82cbhki349hmumf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heyhire",
+            "certificate_hash": "87ee689cac580ae267185c68cc8eaa645ddf294d"
+          }
+        },
+        {
+          "client_id": "993127170639-hg8sji7s42pmcdo8s8hctocdprglbc5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heyhire",
+            "certificate_hash": "5c24e330ecfcc54c4bc7f905f204ef88bedfc029"
+          }
+        },
+        {
+          "client_id": "993127170639-mohmkvfr5vijvvv55v6t21dvojq409vu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heyhire",
+            "certificate_hash": "1617508891d44363eef489844f99605e7393cfe3"
+          }
+        },
+        {
+          "client_id": "993127170639-95elf99jr151mcs8f24q3v4uihke8h0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR_KtGA6OrFD6LvUdSSQoPaf9spNmJhOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993127170639-95elf99jr151mcs8f24q3v4uihke8h0k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "993127170639-dg3r1mrdc6nhqs0a9805pgbsf4ejo75b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.heyhire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

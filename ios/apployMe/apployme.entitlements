@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aps-environment</key>
+	<string>development</string>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:app.apployme.com</string>
+		<string>applinks:stagingapp.apployme.com</string>
+		<string>webcredentials:app.apployme.com</string>
+		<string>webcredentials:stagingapp.apployme.com</string>
+	</array>
+</dict>
+</plist>
